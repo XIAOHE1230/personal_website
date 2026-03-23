@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(node -e \"const pkg = require\\(''./node_modules/next-intl/package.json''\\); console.log\\(pkg.version\\)\")",
+      "Bash(node -e \"const pkg = require\\(''./node_modules/framer-motion/package.json''\\); console.log\\(pkg.version\\)\")",
+      "Bash(node -e \"const fonts = require\\(''d:/personal_website/node_modules/next/dist/compiled/@next/font/dist/google/font-data.json''\\); const names = Object.keys\\(fonts\\); console.log\\(names.filter\\(n => n.includes\\(''Cormorant''\\) || n.includes\\(''DM Sans''\\)\\)\\)\")",
+      "Bash(npx tsc:*)",
+      "Bash(npx next:*)",
+      "Bash(node -e \"const m = require\\(''next-intl''\\); console.log\\(Object.keys\\(m\\)\\)\")",
+      "Bash(sed -i 's/className=\"\"px-10 pt-40 pb-14\"\"/className=\"\"px-5 sm:px-10 pt-36 sm:pt-40 pb-12 sm:pb-14\"\"/g; s/className=\"\"flex flex-col justify-between px-10 py-16 gap-16\"\"/className=\"\"flex flex-col justify-between px-5 sm:px-10 py-12 sm:py-16 gap-10 sm:gap-16\"\"/g; s/className=\"\"flex flex-col justify-center px-10 py-16 gap-8\"\"/className=\"\"flex flex-col justify-center px-5 sm:px-10 py-12 sm:py-16 gap-8\"\"/g' d:/personal_website/components/ContactContent.tsx)",
+      "Bash(sed -i 's/className=\"\"px-10 pt-40 pb-14 flex/className=\"\"px-5 sm:px-10 pt-36 sm:pt-40 pb-12 sm:pb-14 flex/g; s/className=\"\"flex-1 flex flex-col items-center justify-center px-10 py-20 gap-8\"\"/className=\"\"flex-1 flex flex-col items-center justify-center px-5 sm:px-10 py-16 sm:py-20 gap-8\"\"/g' d:/personal_website/components/ResumeContent.tsx)",
+      "Bash(node -e \"const m = require\\(''framer-motion''\\); console.log\\(Object.keys\\(m\\).filter\\(k => [''motion'',''AnimatePresence'',''useInView'',''useScroll'',''useTransform'',''MotionConfig''].includes\\(k\\)\\)\\)\")",
+      "Bash(grep -r --accent d:/personal_website --exclude-dir=node_modules --exclude-dir=.next -n)",
+      "Bash(grep -rn \"backgroundColor: ''var\\(--accent\\)''\\\\|background: ''var\\(--accent\\)''\" d:/personal_website/app d:/personal_website/components)",
+      "Read(//c/Users/15863/Downloads/**)",
+      "Read(//c/Users/15863/Desktop/**)",
+      "Bash(find C:/Users/15863 -maxdepth 4 -name 1.jpg -o -name hero.jpg -o -name robotics*.jpg -o -name lab*.jpg)",
+      "Bash(npm run:*)",
+      "Bash(grep -n \"coverImage\\\\|ProjectHero\\\\|slug\\\\|robofab\" d:/personal_website/app/projects/[slug]/page.tsx)",
+      "Bash(for i:*)",
+      "Bash(do cp:*)",
+      "Bash(done)",
+      "Bash(taskkill /PID 36844 /F)"
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home":    "HOME",
+    "work":    "WORK",
+    "about":   "ABOUT",
+    "resume":  "RESUME",
+    "contact": "GET IN TOUCH",
+    "toggle":  "EN / 中文"
+  },
+  "hero": {
+    "label":   "MSD-RAS · University of Pennsylvania · Weitzman School of Design",
+    "tagline": "Architecture  ×  Robotics  ×  AI",
+    "explore": "EXPLORE WORK",
+    "period":  "2024–2026"
+  },
+  "pillars": {
+    "01": { "label": "ARCHITECTURE", "desc": "Spatial systems and computational form" },
+    "02": { "label": "ROBOTICS",     "desc": "Automated fabrication and control systems" },
+    "03": { "label": "AI / RAG",     "desc": "Knowledge systems and intelligent workflows" },
+    "04": { "label": "RESEARCH",     "desc": "Cross-disciplinary design methodology" }
+  },
+  "stats": {
+    "projects": "PROJECTS",
+    "internships": "INTERNSHIPS",
+    "gpa":      "GPA",
+    "tools":    "TOOLS"
+  },
+  "aboutSplit": {
+    "heading":  "WHERE SYSTEMS\nMEET SPACE",
+    "p1": "Xiao He (何骁) is a cross-disciplinary designer pursuing MSD-RAS at the University of Pennsylvania's Weitzman School of Design. With a 3.97 GPA and a foundation in architecture from China, his work bridges the physical and computational.",
+    "p2": "His practice explores how robotic fabrication, AI-driven knowledge systems, and spatial design can inform one another — producing work that is rigorous, replicable, and ecologically conscious.",
+    "classOf":  "Class of 2026"
+  },
+  "featured": {
+    "heading":     "SELECTED WORK",
+    "viewAll":     "View All Work →",
+    "viewProject": "→ VIEW PROJECT"
+  },
+  "projects": {
+    "heading": "WORK",
+    "all":     "ALL",
+    "ai":      "AI & ROBOTICS",
+    "arch":    "ARCHITECTURE",
+    "allDisciplines": "ALL DISCIPLINES",
+    "project": "PROJECT",
+    "projects": "PROJECTS"
+  },
+  "detail": {
+    "concept":     "Concept",
+    "systemLogic": "System Logic",
+    "process":     "Process",
+    "outcome":     "Outcome",
+    "documentation": "Documentation",
+    "prev":        "← Previous",
+    "next":        "Next →"
+  },
+  "aboutPage": {
+    "label":    "Profile",
+    "heading":  "XIAO HE",
+    "tagline":  "Cross-disciplinary designer at the intersection of space, system, and machine.",
+    "p1": "I build things that sit at the edge of architecture and robotics — systems that move, think, and construct. My practice spans computational design, automated fabrication, AI-driven workflows, and spatial research. I treat every project as a system problem first.",
+    "p2": "Currently pursuing MSD-RAS at the University of Pennsylvania's Weitzman School of Design (GPA 3.97, Class of 2026). Before Penn, I trained in architecture in China, developing a foundation in structural design, modular systems, and fabrication methodology.",
+    "p3": "My work ranges from robotic arm drawing pipelines and RAG-based AI assistants to offshore ecological architecture and modular desert housing — the common thread is rigorous system logic and a belief that design should be deployable, not just beautiful.",
+    "viewWork":       "VIEW WORK",
+    "getInTouch":     "GET IN TOUCH",
+    "education":      "Education",
+    "edu1Degree":     "MSD-RAS — Robotics & Autonomous Systems",
+    "edu1School":     "University of Pennsylvania, Weitzman School of Design",
+    "edu1Note":       "GPA 3.97  ·  Material Agencies: Robotics & Design Lab  ·  Algorithmic Design & Robotic Fabrication  ·  Advanced RAS Programming  ·  Experimental Tooling",
+    "edu2Degree":     "Bachelor of Architecture",
+    "edu2School":     "Zhejiang Sci-Tech University, School of Architecture and Civil Engineering",
+    "edu2Note":       "GPA 3.60  ·  Scholarship for Outstanding Students  ·  Scholarship for Academic Progress  ·  Quarterly Star of Excellence",
+    "skills":         "Tools & Skills",
+    "resumeCta":      "Full Curriculum Vitae",
+    "resumeSubtitle": "Architecture · Robotics · AI · Research",
+    "viewResume":     "VIEW RESUME →",
+    "placeholder":    "[ Portrait — to be replaced ]",
+    "location":       "Penn · Philadelphia, PA"
+  },
+  "contact": {
+    "label":         "Contact",
+    "line1":         "GET IN",
+    "line2":         "TOUCH",
+    "emailLabel":    "Email",
+    "copyHint":      "Click to copy",
+    "copied":        "Copied ✓",
+    "locationLabel": "Location",
+    "locationCity":  "Philadelphia, PA",
+    "locationInst":  "University of Pennsylvania · Weitzman School of Design",
+    "phoneLabel":    "Phone",
+    "phone1":        "+86 135 6723 1392",
+    "phone2":        "+1 (215) 240-2480",
+    "quote": "Open to collaborations in robotic fabrication, computational design, AI systems, and cross-disciplinary research.",
+    "subtext": "Whether it's a studio project, research partnership, or conversation — reach out."
+  },
+  "resume": {
+    "label":       "Curriculum Vitae",
+    "heading":     "RESUME",
+    "download":    "DOWNLOAD PDF ↓",
+    "instruction": "Place resume.pdf in the /public folder to enable inline preview and download.",
+    "downloadBtn": "[ DOWNLOAD PDF ]",
+    "contactLink": "Or get in touch directly →"
+  },
+  "footer": {
+    "copy":    "© 2026 Xiao He (何骁)",
+    "tagline": "Architecture × Robotics × AI"
+  }
+}
